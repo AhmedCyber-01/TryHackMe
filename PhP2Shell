@@ -1,5 +1,7 @@
 # PHP2Shell Writeup
 
+**Lab Link: https://tryhackme.com/room/cvephp2shell**
+
 ## What is PHP2Shell?
 
 On 21 October 2026, security researchers found a big problem in PHP itself — not in any website built with PHP, but in PHP's own engine. This means almost any website running PHP could be hacked, even if the website's code was written perfectly.
